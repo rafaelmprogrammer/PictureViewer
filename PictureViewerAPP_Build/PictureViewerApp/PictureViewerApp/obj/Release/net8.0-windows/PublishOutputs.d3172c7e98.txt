@@ -1,0 +1,5 @@
+C:\Users\rafae\Desktop\APPTEST\PictureViewerApp.exe
+C:\Users\rafae\Desktop\APPTEST\PictureViewerApp.dll
+C:\Users\rafae\Desktop\APPTEST\PictureViewerApp.deps.json
+C:\Users\rafae\Desktop\APPTEST\PictureViewerApp.runtimeconfig.json
+C:\Users\rafae\Desktop\APPTEST\PictureViewerApp.pdb
